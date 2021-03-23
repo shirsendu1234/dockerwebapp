@@ -1,6 +1,6 @@
 pipeline {
         environment {
-        imagename = "shir/mynode"
+        imagename = "shir1234/mynode"
         registryCredential = 'dockerhub'
         dockerImage = ''
         }
